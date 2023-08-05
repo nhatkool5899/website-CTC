@@ -1,0 +1,53 @@
+@media (max-width: 1400px) {
+    .why-left{
+        margin-right: 0;
+    }
+
+    .why-left::before{
+        left: 20px;
+        width: 18px;
+    }
+
+    .why-image-1{
+        width: 440px;
+    }
+
+    .why-image-2{
+        left: 0;
+        bottom: 30px;
+    }
+
+    .why-right .why-wrapper-title{
+        font-size: 44px;
+    }
+
+    .why-content-text{
+        padding: 20px;
+    }
+    
+}
+
+
+@media (max-width: 1200px) {
+}
+
+
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+    
+}
+
+@media (max-width:550px) {
+    
+}
+
+
+
+
+
+
+
